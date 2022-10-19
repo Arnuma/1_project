@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(145, 145, 145);
+}
+
+.container {
+    margin-top: 500px;
+    display: flex;
+    justify-content: center;
+
+}
+/* .header-container {
+    justify-content: center;
+} */
